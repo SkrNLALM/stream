@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b402d6e1-ad9d-454a-b509-e785197318b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreatingStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DishTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmployeeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamDish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Type.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+    <list default="true" id="b402d6e1-ad9d-454a-b509-e785197318b2" name="Changes" comment="Stream">
+      <change afterPath="$PROJECT_DIR$/src/main/java/MatchingAndFinding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Reducing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Trader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EmployeeTest">
-    <configuration name="DishTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DishTask" />
-      <module name="stream" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TransactionTest">
     <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
       <module name="stream" />
@@ -87,15 +68,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamDish" />
+    <configuration name="MatchingAndFinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatchingAndFinding" />
       <module name="stream" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamOperations" />
+    <configuration name="Reducing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reducing" />
+      <module name="stream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StateTest" />
+      <module name="stream" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransactionTest" />
       <module name="stream" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,10 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TransactionTest" />
+        <item itemvalue="Application.StateTest" />
+        <item itemvalue="Application.Reducing" />
+        <item itemvalue="Application.MatchingAndFinding" />
         <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.DishTask" />
-        <item itemvalue="Application.StreamDish" />
-        <item itemvalue="Application.StreamOperations" />
       </list>
     </recent_temporary>
   </component>
@@ -119,11 +115,25 @@
       <option name="presentableId" value="Default" />
       <updated>1675610734538</updated>
       <workItem from="1675610735852" duration="6240000" />
-      <workItem from="1675709817885" duration="6825000" />
+      <workItem from="1675709817885" duration="6945000" />
+      <workItem from="1675794333693" duration="12537000" />
+      <workItem from="1675888045679" duration="1803000" />
     </task>
+    <task id="LOCAL-00001" summary="Stream">
+      <created>1675719217105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675719217105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream" />
   </component>
 </project>
