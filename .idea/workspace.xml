@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b402d6e1-ad9d-454a-b509-e785197318b2" name="Changes" comment="Stream">
-      <change afterPath="$PROJECT_DIR$/src/main/java/MatchingAndFinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Reducing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/State.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TransactionTest.java" afterDir="false" />
+    <list default="true" id="b402d6e1-ad9d-454a-b509-e785197318b2" name="Changes" comment=" taks">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InfiniteStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TransactionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TransactionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +54,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TransactionTest">
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EmployeeTest" />
+  <component name="RunManager" selected="Application.InfiniteStream">
+    <configuration name="InfiniteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InfiniteStream" />
       <module name="stream" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InfiniteStream" />
         <item itemvalue="Application.TransactionTest" />
         <item itemvalue="Application.StateTest" />
         <item itemvalue="Application.Reducing" />
         <item itemvalue="Application.MatchingAndFinding" />
-        <item itemvalue="Application.EmployeeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +111,7 @@
       <workItem from="1675610735852" duration="6240000" />
       <workItem from="1675709817885" duration="6945000" />
       <workItem from="1675794333693" duration="12537000" />
-      <workItem from="1675888045679" duration="1803000" />
+      <workItem from="1675888045679" duration="3019000" />
     </task>
     <task id="LOCAL-00001" summary="Stream">
       <created>1675719217105</created>
@@ -126,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675719217105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" taks">
+      <created>1675889893804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675889893804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +135,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stream" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream" />
+    <MESSAGE value=" taks" />
+    <option name="LAST_COMMIT_MESSAGE" value=" taks" />
   </component>
 </project>

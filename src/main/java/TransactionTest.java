@@ -55,8 +55,6 @@ public class TransactionTest {
                .map(Transaction::getValue)
                        .forEach(System.out::println);
 
-
-
        //7. What is the highest value of all the transactions?
        System.out.println("Task 7 ***************************");
       Optional<Integer> high=TransactionData.getAll().stream()
@@ -78,8 +76,5 @@ public class TransactionTest {
        System.out.println(smallestvalue.get());
 
    }
-
-
-
 
 }
