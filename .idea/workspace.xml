@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b402d6e1-ad9d-454a-b509-e785197318b2" name="Changes" comment=" taks">
-      <change afterPath="$PROJECT_DIR$/src/main/java/InfiniteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaCollectors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TransactionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TransactionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InfiniteStream">
+  <component name="RunManager" selected="Application.JavaCollectors">
     <configuration name="InfiniteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InfiniteStream" />
       <module name="stream" />
@@ -62,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchingAndFinding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MatchingAndFinding" />
+    <configuration name="JavaCollectors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectors" />
       <module name="stream" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaCollectors" />
         <item itemvalue="Application.InfiniteStream" />
         <item itemvalue="Application.TransactionTest" />
         <item itemvalue="Application.StateTest" />
         <item itemvalue="Application.Reducing" />
-        <item itemvalue="Application.MatchingAndFinding" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +110,7 @@
       <workItem from="1675610735852" duration="6240000" />
       <workItem from="1675709817885" duration="6945000" />
       <workItem from="1675794333693" duration="12537000" />
-      <workItem from="1675888045679" duration="3019000" />
+      <workItem from="1675888045679" duration="5891000" />
     </task>
     <task id="LOCAL-00001" summary="Stream">
       <created>1675719217105</created>
@@ -127,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675889893804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" taks">
+      <created>1675891111945</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675891111945</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" taks">
+      <created>1675891163466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675891163466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
